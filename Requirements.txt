@@ -1,0 +1,14 @@
+Project:- E-Library
+
+python 3.8
+Django 2.2
+mysqlclient
+pandas
+pillow
+
+
+Requirements
+
+Windows 10
+XAMPP Server For MySQL Database
+Microsoft Edge Browser
